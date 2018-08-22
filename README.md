@@ -1,6 +1,6 @@
 # BasicAlgorithms
 
-Basic Sorting Algorithms for C++
+Basic Algorithms for C++
 
 - BubbleSort (using vectors)
 - Linked List (add/delete nodes, using Int values only)
